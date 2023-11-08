@@ -1,0 +1,28 @@
+.container{
+    color: bisque;
+}
+
+.img{
+    width: 250px;
+    height: 250px;
+}
+
+.title{
+    color: rgb(218, 95, 20);
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+}
+
+.title2{
+    color: green;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 50px;
+}
